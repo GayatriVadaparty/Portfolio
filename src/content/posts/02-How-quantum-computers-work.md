@@ -43,4 +43,5 @@ In addition to this, quantum computing can help in creating encryption methods, 
 
 
 If you’ve found this post helpful and you are interested in similar content, please give me a follow or share. Your support is really appreciated!
+
 [Check here](https://medium.com/@gayatrivalp/how-quantum-computers-can-change-the-world-1bf0c780ae27)
