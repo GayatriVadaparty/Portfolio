@@ -2,6 +2,7 @@
 title: "How Quantum Computers can change the world?"
 publishedAt: 2021-11-20
 description: "Quantum computers represent a revolutionary shift in the field of computing, offering the potential to transform the way we solve complex problems and process information."
+slug: "how-quantum-computers-can-change-the-world"
 isPublish: true
 ---
 
