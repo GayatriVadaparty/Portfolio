@@ -1,8 +1,8 @@
 ---
-title: "Understanding Data Structures with a Treasure Hunt Game"
-publishedAt: 2022-06-15
-description: "I'll give you a bunch of tasks where you can assume and co-relate the situations here with data structures in Computer Science."
-isPublish: true
+Title: "Understanding Data Structures with a Treasure Hunt Game"
+PublishedAt: 2022-06-15
+Description: "I'll give you a bunch of tasks where you can assume and co-relate the situations here with data structures in Computer Science."
+IsPublish: true
 ---
 # Understanding Data Structures with a Treasure Hunt Game!
 
@@ -31,4 +31,4 @@ Finally, you've reached the end!! However, you're supposed to find a room where 
 
 Congratulations!! You did it. I hope you understood data structures which are used in Computer Science.
 
-[ Check out! ](https://www.linkedin.com/pulse/understanding-data-structures-treasure-hunt-game-gayatri-vadaparty/)
+[Check out!](https://www.linkedin.com/pulse/understanding-data-structures-treasure-hunt-game-gayatri-vadaparty/)
