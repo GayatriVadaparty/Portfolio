@@ -1,3 +1,9 @@
+---
+title: "Understanding Data Structures with a Treasure Hunt Game"
+publishedAt: 2022-06-15
+description: "I'll give you a bunch of tasks where you can assume and co-relate the situations here with data structures in Computer Science."
+isPublish: true
+---
 # Understanding Data Structures with a Treasure Hunt Game!
 
 Hi everyone! In this article, I'm going to explain data structures with a treasure hunt game! So, for all the beginners, who have just stepped into Computer Science, this is what you can find interesting!
