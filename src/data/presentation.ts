@@ -12,23 +12,23 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  mail: "gayatrivalp@gmail.com",
+  title: "Hi, I’m Gayatri 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Passionate final-year undergraduate at Andhra University pursuing a Bachelor of Technology in Computer Science. I'm actively seeking internships and full-time roles in Software Development and Research. My strong foundation in programming languages such as Python, C, Java, and R, coupled with expertise in tools like PyTorch, TensorFlow, and Git, enables me to tackle complex challenges. I have hands-on experience in various domains, from Quantum Computing and AI to Cloud Computing and Machine Learning.",
   socials: [
     {
-      label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      label: "Medium",
+      link: "https://medium.com/@gayatrivalp",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/gayatri-vadaparty-46ba50219",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/GayatriVadaparty",
     },
   ],
 };
